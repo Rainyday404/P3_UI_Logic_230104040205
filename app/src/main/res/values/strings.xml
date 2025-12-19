@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P3_UI_Logic_230104040205</string>
+    <string name="masukkan_nama">Masukkan Nama Anda</string>
+    <string name="submit">Submit</string>
+    <string name="hasil_akan_tampil_di_sini">Hasil akan tampil di sini</string>
+</resources>

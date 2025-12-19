@@ -1,5 +1,9 @@
 # P3_UI_Logic_230104040205
 
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 Repository ini berisi source code untuk Modul Praktikum 3 Mobile Programming: "Menghubungkan UI dengan Logic". Aplikasi ini dikembangkan menggunakan Android Studio dengan bahasa pemrograman Kotlin dan Layout XML.
 
 ## Deskripsi Singkat
